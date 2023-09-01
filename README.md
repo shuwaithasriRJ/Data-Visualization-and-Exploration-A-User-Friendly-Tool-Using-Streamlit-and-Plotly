@@ -1,7 +1,7 @@
 # Data-Visualization-and-Exploration-A-User-Friendly-Tool-Using-Streamlit-and-Plotly
 Data Visualization and Exploration : A User-Friendly Tool Using Streamlit and Plotly
 
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.businesstoday.in%2Flatest%2Fcorporate%2Fstory%2Fphonepe-gives-200-million-worth-shares-to-2200-employees-286716-2021-02-05&psig=AOvVaw0XHqpzJXfdvjxuSdQyRU7a&ust=1693633950105000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCKCM5Z_ciIEDFQAAAAAdAAAAABAE)
+
 # What is PhonePe Pulse?
 The PhonePe Pulse website showcases more than 2000+ Crore transactions by consumers on an interactive map of India. With over 45% market share, PhonePe's data is representative of the country's digital payment habits. The insights on the website and in the report have been drawn from two key sources - the entirety of PhonePe's transaction data combined with merchant and customer interviews. The report is available as a free download on the PhonePe Pulse website and GitHub.
 
